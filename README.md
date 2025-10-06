@@ -5,6 +5,14 @@ Players take turns placing colored dots on a grid — the first to align their d
 
 ---
 
+## 📸 Screenshots  
+
+| Home Screen | Play Vs Friend | Play Vs AI |
+|--------------|-----------|----------------|
+| ![Home Screen](home.jpg) | ![Gameplay](friendly_play.jpg) | ![Winner](ai_play.jpg) |
+
+---
+
 ## 🕹️ Gameplay  
 
 - Two players: **Blue (🟦)** and **Pink (🩷)**.  
@@ -26,16 +34,6 @@ Players take turns placing colored dots on a grid — the first to align their d
 ✅ Subtext labels under “Play vs Friend” and “Play vs AI”  
 ✅ Light gray grid layout for clarity  
 ✅ Smooth padding and alignment for all devices  
-
----
-
-## 📸 Screenshots  
-
-Below are some preview sections — replace the placeholders with your screenshots later:  
-
-| Home Screen | Gameplay | Winner Screen |
-|--------------|-----------|----------------|
-| ![Home Screen](home.jpg) | ![Gameplay](friendly_play.jpg) | ![Winner](ai_play.jpg) |
 
 ---
 
@@ -61,6 +59,11 @@ Below are some preview sections — replace the placeholders with your screensho
 
 ---
 
+## 📄 License
+
+This project is for **personal or educational use only**.  
+© 2024 The Amazing Minds. All Rights Reserved.
+
+---
+
 ⭐ **If you like this app, please give it a star on GitHub!**
-
-
